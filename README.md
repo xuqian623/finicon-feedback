@@ -6,8 +6,7 @@ Thank you for taking the time to help improve Finicon. This repository collects 
 
 - Search [existing Issues]([https://github.com/xuqian623/finicon-feedback/issues](https://github.com/xuqian623/finicon-feedback/issues)) to avoid duplicates.
 
-- For **security issues** (vulnerabilities, sensitive data exposure, etc.), **do not** disclose details in a public issue. Please report privately using the security contact instructions in the main project’s `SECURITY.md` (or the channel your project maintains for responsible disclosure).
-
+- For **security issues** (vulnerabilities, sensitive data exposure, etc.), **do not** disclose details in a public issue. 
 ## How to write a useful report
 
 Include as much of the following as you can:
