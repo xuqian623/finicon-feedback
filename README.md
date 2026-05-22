@@ -1,6 +1,6 @@
 # Contributing & feedback
 
-Thank you for taking the time to help improve Finicon. This repository collects **public feedback, feature requests, and support questions** through GitHub Issues.
+Thank you for taking the time to help improve Finicon. This repository collects **bug report, icon requests, and feature request** through GitHub Issues.
 
 ## Before you open an issue
 
